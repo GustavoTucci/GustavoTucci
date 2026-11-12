@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Gustavo Martinez Tucci**, an **Assistant Data Engineer at 2RP Net** (working on **Banco Digio**'s Electronic Document Management / GED squad) and a **Systems Analysis & Development (ADS)** student at **SENAI-SP**.
+I'm **Gustavo Martinez Tucci**, an **Assistant Data Engineer at 2RP Net** and a **Systems Analysis & Development (ADS)** student at **SENAI-SP**.
 
 - 🚀 **Fast growth:** Promoted from intern to full-time in under 1 year at **2RP Net**.
 - 🤖 **GenAI & Multi-Agent Systems:** Designing deterministic multi-agent architectures with **Google ADK**, **Python**, and **Pydantic**.
