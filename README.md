@@ -1,12 +1,12 @@
-<!-- Banner com a paleta do portfólio (#0A0A0B + #C9F31D) -->
+<!-- Banner local (nunca quebra) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,100:141416&height=190&section=header&text=Gustavo%20Tucci&fontSize=52&fontColor=C9F31D&fontAlignY=38&desc=Assistant%20Data%20Engineer%20%7C%20GenAI%2C%20Multi-Agent%20Systems%20%26%20Full-Stack&descSize=16&descAlignY=62&descColor=E4E4E7&animation=fadeIn" alt="Gustavo Tucci Banner" />
+  <img src="./banner.svg" alt="Gustavo Tucci Banner" width="100%" />
 </div>
 
-<!-- Subtítulo animado -->
+<!-- Subtítulo animado (largura ajustada para não cortar) -->
 <div align="center">
   <a href="https://github.com/GustavoTucci">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=C9F31D&center=true&vCenter=true&width=720&lines=Building+deterministic+Multi-Agent+Systems+with+Google+ADK;Data+Engineering+%26+Cloud+Pipelines+on+GCP;Backend+APIs+in+Python+%2F+FastAPI+%26+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=C9F31D&center=true&vCenter=true&width=820&lines=Building+deterministic+Multi-Agent+Systems+with+Google+ADK;Data+Engineering+%26+Cloud+Pipelines+on+GCP;Backend+APIs+in+Python+%2F+FastAPI+%26+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,12 +23,6 @@
   <a href="https://github.com/GustavoTucci?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositories-24%2B-0A0A0B?style=for-the-badge&logo=github&logoColor=C9F31D" alt="GitHub Repositories" />
   </a>
-  <!-- Quando publicar o portfólio, substitua o # pela URL do deploy -->
-  <!--
-  <a href="https://seu-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-C9F31D?style=for-the-badge&logo=vercel&logoColor=0A0A0B" alt="Portfolio" />
-  </a>
-  -->
 </div>
 
 ---
@@ -89,9 +83,11 @@ I'm **Gustavo Martinez Tucci**, an **Assistant Data Engineer at 2RP Net** (worki
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GustavoTucci&show_icons=true&bg_color=0A0A0B&border_color=27272A&title_color=C9F31D&icon_color=C9F31D&text_color=E4E4E7&hide_border=false" alt="Gustavo Tucci GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTucci&layout=compact&bg_color=0A0A0B&border_color=27272A&title_color=C9F31D&text_color=E4E4E7&hide_border=false" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/GustavoTucci?label=Followers&style=for-the-badge&color=C9F31D&labelColor=0A0A0B&logo=github&logoColor=C9F31D" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/GustavoTucci?affiliations=OWNER&style=for-the-badge&color=C9F31D&labelColor=0A0A0B&logo=github&logoColor=C9F31D" alt="Stars" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GustavoTucci&background=0A0A0B&border=27272A&stroke=27272A&ring=C9F31D&fire=C9F31D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9F31D&sideLabels=E4E4E7&dates=A1A1AA" alt="GitHub Streak" />
